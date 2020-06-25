@@ -9,7 +9,7 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [1. Related Metrics](#Related-Metrics)
 - [2. Related Survey](#Related-Survey) 
 - [3. General Representation Learning](#General-Representation-Learning)
-- [4. Disentangled Representation\/Attributes](#Disentangled-Representation-Attributes)
+- [4. Disentangled Representation](#Disentangled-Representation)
 - [5. Disassembling Object Representation](#Disassembling-Object-Representation)
 - [6. VAE-based Method](#VAE-based-Method)
 - [7. GAN-based Method](#GAN-based-Method)
@@ -67,7 +67,7 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192), ICCV2015  
 [code-caffe](https://github.com/cdoersch/deepcontext)
 
-## Disentangled Representation/Attributes
+## Disentangled Representation
 ##### In 2020
 - [ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping](https://arxiv.org/abs/2006.08287), arXiv2020  
 [codes](https://github.com/CherBass/ICAM)
