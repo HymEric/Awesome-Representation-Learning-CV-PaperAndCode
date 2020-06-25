@@ -9,14 +9,14 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [1. Related Metrics](#Related-Metrics)
 - [2. Related Survey](#Related-Survey) 
 - [3. General Representation Learning](#General-Representation-Learning)
-- [4. Disentangled Representation/Attributes](#Disentangled-Representation/Attributes)
-- [5. Disassembling Object Representation](#Disassembling-Object-Representations)
-- [6. VAE-based Method](#VAE-Method)
-- [7. GAN-based Method](#GAN-Method)
+- [4. Disentangled Representation/Attributes](#Disentangled-Representation-Attributes)
+- [5. Disassembling Object Representation](#Disassembling-Object-Representation)
+- [6. VAE-based Method](#VAE-based-Method)
+- [7. GAN-based Method](#GAN-based-Method)
 - [8. Flow-based Method](#Flow-based-Method)
 - [9. Image Translation](#Image-Translation)
 - [10. Deep Clustering](#Deep-Clustering)
-- [11. Library](#Resources)
+- [11. Resources](#Resources)
 
 <!-- TOC -->
 
