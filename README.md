@@ -9,7 +9,7 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [1. Related Metrics](#Related-Metrics)
 - [2. Related Survey](#Related-Survey) 
 - [3. General Representation Learning](#General-Representation-Learning)
-- [4. Disentangled Representation/Attributes](#Disentangled-Representation-Attributes)
+- [4. Disentangled Representation\/Attributes](#Disentangled-Representation-Attributes)
 - [5. Disassembling Object Representation](#Disassembling-Object-Representation)
 - [6. VAE-based Method](#VAE-based-Method)
 - [7. GAN-based Method](#GAN-based-Method)
