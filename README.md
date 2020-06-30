@@ -32,6 +32,10 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 ## General Representation Learning
 ##### In 2020
+- [A Universal Representation Transformer Layer for Few-Shot Image Classification](https://arxiv.org/abs/2006.11702), arXiv2020
+
+- [Self-supervised Learning Generative or Contrastive](https://arxiv.org/abs/2006.08218), arXiv2020
+
 - [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029), arXiv2020, SimCLR-v2  
 [code-tensorflow](https://github.com/google-research/simclr)
 
