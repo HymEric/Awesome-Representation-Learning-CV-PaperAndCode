@@ -63,6 +63,7 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670), ICLR2019  
 [codes-pytorch](https://github.com/rdevon/DIM)
 
+- [Revisiting self-supervised visual representation learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Kolesnikov_Revisiting_Self-Supervised_Visual_Representation_Learning_CVPR_2019_paper.html), CVPR2019
 
 ##### In 2018
 - [Representation learning with contrastive predictive coding](https://arxiv.org/abs/1807.03748), arXiv2018  
