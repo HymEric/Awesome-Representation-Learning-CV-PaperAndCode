@@ -68,6 +68,9 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [Representation learning with contrastive predictive coding](https://arxiv.org/abs/1807.03748), arXiv2018  
 [codes-keras](https://github.com/davidtellez/contrastive-predictive-coding)
 
+- [Unsupervised feature learning via non-parametric instance discrimination](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Unsupervised_Feature_Learning_CVPR_2018_paper.html), CVPR2018  
+[codes-pytorch](https://github.com/zhirongw/lemniscate.pytorch)
+
 
 - [Contrastive learning of emoji-based representations for resource-poor languages](https://arxiv.org/abs/1804.01855)
 
