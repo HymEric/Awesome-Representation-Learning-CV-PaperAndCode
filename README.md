@@ -174,8 +174,15 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 
 ## GAN-based Method
+##### In 2019
+- [Large scale adversarial representation learning](http://papers.nips.cc/paper/9240-large-scale-adversarial-representation-learning), NeurIPS2019  
+[codes-tensorflow](https://github.com/LEGO999/BigBiGAN-TensorFlow2.0)
+
 ##### In 2017
-- [PixelGAN autoencoders](http://papers.nips.cc/paper/6793-pixelgan-autoencoders), NeurIPS2017  
+- [PixelGAN autoencoders](http://papers.nips.cc/paper/6793-pixelgan-autoencoders), NeurIPS2017 
+
+- [Adversarial feature learning](https://arxiv.org/abs/1605.09782), ICLR2017  
+[codes-theano](https://github.com/jeffdonahue/bigan)
 
 ##### In 2016
 - [Infogan: Interpretable representation learning by information maximizing generative adversarial nets](http://papers.nips.cc/paper/6399-infogan-interpretable-representation), NeurIPS2016  
