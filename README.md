@@ -65,6 +65,10 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 
 ##### In 2018
+- [Representation learning with contrastive predictive coding](https://arxiv.org/abs/1807.03748), arXiv2018  
+[codes-keras](https://github.com/davidtellez/contrastive-predictive-coding)
+
+
 - [Contrastive learning of emoji-based representations for resource-poor languages](https://arxiv.org/abs/1804.01855)
 
 ##### In 2015
