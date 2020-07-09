@@ -184,6 +184,9 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 
 ## GAN-based Method
+##### In 2020
+- [Transformation GAN for Unsupervised Image Synthesis and Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Transformation_GAN_for_Unsupervised_Image_Synthesis_and_Representation_Learning_CVPR_2020_paper.html), CVPR2020
+
 ##### In 2019
 - [Large scale adversarial representation learning](http://papers.nips.cc/paper/9240-large-scale-adversarial-representation-learning), NeurIPS2019  
 [codes-tensorflow](https://github.com/LEGO999/BigBiGAN-TensorFlow2.0)
