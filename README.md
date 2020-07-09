@@ -1,5 +1,5 @@
 # Awesome-Representation-Learning-CV-PaperAndCode
-Learning useful representations with the unsupervised or weakly supervised methods is a key challenge in artificial intelligence. The **representation learning (RL)** is helpful for most specific tasks like classification, recognition, detection, image editing et al. in computer vision area. RL is mainly appeared in the classification, disentangled representation/attributes, VAE, GAN, Flow-based model, image-translation, deep clustering papers. This repo mainly focuses on the lasted development in the RL area.
+Learning useful representations with the unsupervised or weakly supervised methods is a key challenge in artificial intelligence. The **representation learning (RL)** is helpful for most specific tasks like classification, recognition, detection, image editing, image retrieval, et al. in computer vision area. RL is mainly appeared in the learning good representations for down-stream task, disentangled representation/attributes, VAE, GAN, Flow-based model, image-translation, deep clustering papers. This repo mainly focuses on the lasted development in the RL area.
 
 I hope this repo helps both you and me. If you find some mistakes, other novel or interesting works related to **representation learning**, please don't hesitate to **issue** or **pull request**.
 
@@ -35,6 +35,8 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [A Universal Representation Transformer Layer for Few-Shot Image Classification](https://arxiv.org/abs/2006.11702), arXiv2020
 
 - [Self-supervised Learning Generative or Contrastive](https://arxiv.org/abs/2006.08218), arXiv2020
+
+- [Gradients as Features for Deep Representation Learning](https://openreview.net/forum?id=BkeoaeHKDS), ICLR2020
 
 - [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029), arXiv2020, SimCLR-v2  
 [code-tensorflow](https://github.com/google-research/simclr)
