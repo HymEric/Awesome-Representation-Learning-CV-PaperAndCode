@@ -32,6 +32,9 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 ## General Representation Learning
 ##### In 2020
+- [Parametric Instance Classification for Unsupervised Visual Feature Learning](https://arxiv.org/abs/2006.14618), arXiv2020, PIC
+
+
 - [A Universal Representation Transformer Layer for Few-Shot Image Classification](https://arxiv.org/abs/2006.11702), arXiv2020  
 [codes-tensorflow](https://github.com/liulu112601/URT)
 
