@@ -82,6 +82,10 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 - [Contrastive learning of emoji-based representations for resource-poor languages](https://arxiv.org/abs/1804.01855)
 
+##### In 2016
+- [Order-Embeddings of Images and Language](https://arxiv.org/abs/1511.06361),  ICLR2016  
+[codes-theano](https://github.com/ivendrov/order-embedding)
+
 ##### In 2015
 - [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192), ICCV2015  
 [code-caffe](https://github.com/cdoersch/deepcontext)
