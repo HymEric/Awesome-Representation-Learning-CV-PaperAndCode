@@ -140,6 +140,8 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 ## Disassembling Object Representation
 ##### In 2020
+- [One-sample Guided Object Representation Disassembling](), Neurips2020(soon)
+
 - [Disassembling Object Representations without Labels](https://arxiv.org/abs/2004.01426), arXiv2020
 
 - [Learning to Manipulate Individual Objects in an Image](https://arxiv.org/abs/2004.05495), CVPR2020
