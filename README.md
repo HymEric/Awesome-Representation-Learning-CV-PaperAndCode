@@ -31,7 +31,19 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 
 ## General Representation Learning
+##### In 2021
+- [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057), arXiv2021, MoCov3[transformer]  
+
+- [Barlow Twins-Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230), arXiv2021, Twins  
+[codes-pytorch](https://github.com/facebookresearch/barlowtwins)
+
 ##### In 2020
+- [Exploring Simple Siamese Representation Learning](), arXiv2020, SimSiam  
+[codes-pytorch](https://github.com/PatrickHua/SimSiam)
+
+- [Bootstrap your own latent-A new approach to self-supervised Learning](), arXiv2020, BYOL  
+[codes-pytorch](https://github.com/lucidrains/byol-pytorch)
+
 - [Parametric Instance Classification for Unsupervised Visual Feature Learning](https://arxiv.org/abs/2006.14618), arXiv2020, PIC
 
 
@@ -140,7 +152,8 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 ## Disassembling Object Representation
 ##### In 2020
-- [One-sample Guided Object Representation Disassembling](), Neurips2020(soon)
+- [One-sample Guided Object Representation Disassembling](http://proceedings.neurips.cc/paper/2020/hash/f8e59f4b2fe7c5705bf878bbd494ccdf-Abstract.html), Neurips2020  
+[codes-tensorflow](https://github.com/HymEric/One-GORD)
 
 - [Disassembling Object Representations without Labels](https://arxiv.org/abs/2004.01426), arXiv2020
 
