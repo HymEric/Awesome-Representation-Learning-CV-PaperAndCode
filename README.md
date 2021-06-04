@@ -8,7 +8,7 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 - [1. Related Metrics](#Related-Metrics)
 - [2. Related Survey](#Related-Survey) 
-- [3. General Representation Learning](#General-Representation-Learning)
+- [3. General Representation Learning (self-supervised, contrastive learning, ...)](#General-Representation-Learning)
 - [4. Disentangled Representation](#Disentangled-Representation)
 - [5. Disassembling Object Representation](#Disassembling-Object-Representation)
 - [6. VAE-based Method](#VAE-based-Method)
@@ -30,8 +30,12 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/abs/1812.05069), arXiv2018
 
 
-## General Representation Learning
+## General Representation Learning  
+include self-supervised, contrastive learning, ...
 ##### In 2021
+- [A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning](https://arxiv.org/abs/2104.14558), CVPR2021  
+[codes-soon](https://github.com/facebookresearch/SlowFast)
+
 - [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057), arXiv2021, MoCov3[transformer]  
 
 - [Barlow Twins-Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230), arXiv2021, Twins  
