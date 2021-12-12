@@ -33,8 +33,11 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 ## General Representation Learning  
 include self-supervised, contrastive learning, ...
 ##### In 2021
+- [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377), arXiv2021  
+[codes-pytorch](https://github.com/pengzhiliang/MAE-pytorch)
+
 - [A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning](https://arxiv.org/abs/2104.14558), CVPR2021  
-[codes-soon](https://github.com/facebookresearch/SlowFast)
+[codes](https://github.com/facebookresearch/SlowFast)
 
 - [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057), arXiv2021, MoCov3[transformer]  
 
