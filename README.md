@@ -16,7 +16,7 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [8. Flow-based Method](#Flow-based-Method)
 - [9. Image Translation](#Image-Translation)
 - [10. Deep Clustering](#Deep-Clustering)
-- [11. Other Related Method](#Other-Related-Methog)
+- [11. Other Related Method](#Other-Related-Method)
 - [12. Resources](#Resources)
 
 <!-- TOC -->
