@@ -16,7 +16,8 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 - [8. Flow-based Method](#Flow-based-Method)
 - [9. Image Translation](#Image-Translation)
 - [10. Deep Clustering](#Deep-Clustering)
-- [11. Resources](#Resources)
+- [11. Other Related Method](#Other-Related-Methog)
+- [12. Resources](#Resources)
 
 <!-- TOC -->
 
@@ -282,6 +283,12 @@ include self-supervised, contrastive learning, ...
 
 - [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/abs/1801.07648), arXiv2018  
 [codes-theano](https://github.com/ElieAljalbout/Clustering-with-Deep-learning)
+
+
+## Other Related Method
+##### In 2022
+- [Contrastive Deep Supervision](https://arxiv.org/abs/2207.05306), ECCV2022  
+[codes-pytorch](https://github.com/ArchipLab-LinfengZhang/contrastive-deep-supervision)
 
 
 ## Resources
