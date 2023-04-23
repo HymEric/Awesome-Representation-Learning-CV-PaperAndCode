@@ -23,8 +23,8 @@ I hope this repo helps both you and me. If you find some mistakes, other novel o
 
 ## Related Metrics
 - [Evaluating the Disentanglement of Deep Generative Models through Manifold Topology](https://arxiv.org/abs/2006.03680), arXiv2020 [[code]](https://github.com/stanfordmlgroup/disentanglement)
-- [Theory and Evaluation Metrics for Learning Disentangled Representations](https://arxiv.org/abs/1908.09961), arXiv2019
-- [A framework for the quantitative evaluation of disentangled representations](https://openreview.net/forum?id=By-7dz-AZ&noteId=By-7dz-AZ), ICLR2018
+- [Theory and Evaluation Metrics for Learning Disentangled Representations](https://arxiv.org/abs/1908.09961), arXiv2019 [[code]](https://github.com/clarken92/DisentanglementMetrics)
+- [A framework for the quantitative evaluation of disentangled representations](https://openreview.net/forum?id=By-7dz-AZ&noteId=By-7dz-AZ), ICLR2018 [[code]](https://github.com/cianeastwood/qedr)
 
 ## Related Survey
 - [Representation learning: A review and new perspectives](https://arxiv.org/abs/1206.5538), PAMI2013, Yoshua Bengio
